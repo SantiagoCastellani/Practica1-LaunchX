@@ -46,13 +46,9 @@ Los clientes pueden crear nuevas demandas y seguir el estado de dichas demandas.
 
 ## Buyer Persona
 
-
-
-
+![Ver diagrama](/img/buyer-persona.jpg)
 
 ## Público objetivo
-
-
 
 ## Wireframe - Diagrama de flujos
 
