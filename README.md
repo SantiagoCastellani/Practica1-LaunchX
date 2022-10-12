@@ -56,3 +56,7 @@ Los clientes pueden crear nuevas demandas y seguir el estado de dichas demandas.
 ## Wireframe - Diagrama de flujos
 
 ![Ver diagrama](/img/diagrama.jpg)
+
+## Diseño UX
+
+## Diseño UI
