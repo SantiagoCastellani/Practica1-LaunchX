@@ -57,6 +57,20 @@ Los clientes pueden crear nuevas demandas y seguir el estado de dichas demandas.
 
 ![Ver diagrama](/img/diagrama.jpg)
 
-## Diseño UX
 
 ## Diseño UI
+
+(En la PC con la que estoy trabajando, no pude correr favorablemente el figma u otro programa de diseño, por lo que hice una maqueta en HTML y tomé capturas...)
+
+- Home Page
+
+![Honme Page](/img/UI/home.jpg)
+
+- Login Page
+
+![Login Page](/img/UI/login.png)
+
+- Abogado Page
+
+![Abogado Page](/img/UI/abogado.png)
+
